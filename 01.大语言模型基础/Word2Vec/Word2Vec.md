@@ -102,4 +102,5 @@ Hierarchical Softmax对原模型的改进主要有两点，
 使用负采样，通过随机选择一个较少数目（比如说5个）的“负”样本来更新对应的权重。(在这个条件下，“负”单词就是希望神经网络输出为0的神经元对应的单词）。并且仍然为“正”单词更新对应的权重（也就是当前样本下”quick”对应的神经元仍然输出为1）。
 
 > https://jalammar.github.io/illustrated-word2vec/
-> 
+
+> https://github.com/piskvorky/gensim/blob/develop/gensim/models/word2vec.py
