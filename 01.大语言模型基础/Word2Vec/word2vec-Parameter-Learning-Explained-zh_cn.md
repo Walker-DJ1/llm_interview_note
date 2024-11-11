@@ -233,3 +233,6 @@ skip-gram模型在[Mikolov等人的文章](#R2)（[2013a](#R2)，[b](#R3)）中�
 <span id="R4">Mnih, A. and Hinton, G. E. (2009). A scalable hierarchical distributed language model. In Koller, D., Schuurmans, D., Bengio, Y., and Bottou, L., editors, Advances in Neural Information Processing Systems 21, pages 1081–1088. Curran Associates, Inc.</span>
 
 <span id="R5">Morin, F. and Bengio, Y. (2005). Hierarchical probabilistic neural network language model. In AISTATS, volume 5, pages 246–252. Citeseer.</span>
+> https://towardsdatascience.com/word2vec-with-pytorch-implementing-original-paper-2cd7040120b0
+
+> https://www.tensorflow.org/text/tutorials/word2vec
