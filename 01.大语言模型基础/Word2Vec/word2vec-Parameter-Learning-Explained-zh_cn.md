@@ -238,3 +238,7 @@ skip-gram模型在[Mikolov等人的文章](#R2)（[2013a](#R2)，[b](#R3)）中�
 > https://towardsdatascience.com/word2vec-with-pytorch-implementing-original-paper-2cd7040120b0
 
 > https://www.tensorflow.org/text/tutorials/word2vec
+>
+> https://arxiv.org/pdf/1411.2738
+>
+> https://arxiv.org/pdf/1301.3781
