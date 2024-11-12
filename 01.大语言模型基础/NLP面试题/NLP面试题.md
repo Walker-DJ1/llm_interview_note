@@ -85,6 +85,8 @@ Word2vec训练方面采用的HSoftmax以及负采样确实可以认为是创新�
 
 图像预训练 → word embedding → word2vec → elmo → transformer → gpt → bert → GPT 234
 
+todo 分别是如何做的？
+
 ### 7.NLP三大特征抽取器（CNN/RNN/TF）
 
 > 摘自文章：[自然语言处理三大特征抽取器](https://zhuanlan.zhihu.com/p/54743941 "自然语言处理三大特征抽取器")
