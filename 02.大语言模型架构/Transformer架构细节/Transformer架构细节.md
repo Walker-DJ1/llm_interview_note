@@ -318,3 +318,7 @@ Transformer架构同时解决了seq2seq的两⼤缺陷, 既可以并⾏计算, �
 - Decoder模块在self-attention层, 以及Encoder-Decoder Attention层, 因为各个token之间存在依赖关系, 无法独立计算, 不是真正意义上的并行化.
 - Decoder模块在self-attention层, 以及Encoder-Decoder Attention层, 因为采用了矩阵运算的实现方式, 可以一次性的完成所有注意力张量的计算, 也是另一种"并行化"的体现.
 - **Decoder模块在预测计算不能并行化处理.**
+
+
+> https://blog.csdn.net/yujianmin1990/article/details/85221271
+> https://jalammar.github.io/illustrated-transformer/
